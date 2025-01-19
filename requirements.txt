@@ -1,0 +1,16 @@
+alchemical==1.0.2
+    # via my-project (/home/miguel/Documents/dev/tmp/sqlenc/pyproject.toml)
+cffi==1.17.1
+    # via cryptography
+cryptography==44.0.0
+    # via my-project (/home/miguel/Documents/dev/tmp/sqlenc/pyproject.toml)
+greenlet==3.1.1
+    # via sqlalchemy
+pycparser==2.22
+    # via cffi
+python-dotenv==1.0.1
+    # via my-project (/home/miguel/Documents/dev/tmp/sqlenc/pyproject.toml)
+sqlalchemy==2.0.37
+    # via alchemical
+typing-extensions==4.12.2
+    # via sqlalchemy
